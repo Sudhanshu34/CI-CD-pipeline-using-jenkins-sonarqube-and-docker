@@ -5,7 +5,7 @@ Firstly fetching the code from github using webhook (on push or pull requests) t
 
 
 
-https://github.com/mohamedsamirspot/CICD-Jenkins-SonarQube-Docker-AWS/assets/71722372/575b30dc-8729-4eb8-933f-43f2ccd95f86
+
 Setting up a CI/CD (Continuous Integration/Continuous Deployment) pipeline using Jenkins, SonarQube, and Docker involves several steps. Here's a high-level overview of the process:
 
 Install Jenkins: Start by installing Jenkins on your server or machine. You can follow the official Jenkins documentation for detailed installation instructions.
